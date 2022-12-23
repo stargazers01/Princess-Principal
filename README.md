@@ -1,3 +1,4 @@
 # Princess-Principal
 
-Buat nyoba pake tailwind css
+
+Jangan lupa pake tailwind css
